@@ -1,28 +1,19 @@
-# Striver DSA Solutions 🚀
+# Striver DSA
 
-This repository contains my solutions to the **Striver DSA Sheet**.
+This repository contains my solutions to the Striver A2Z DSA Sheet. The goal of this repository is to strengthen my problem-solving skills and build a strong foundation in Data Structures and Algorithms.
 
-## 📚 Language
+## Languages
 - C++
 
-## 📂 Folder Structure
+## Progress
 
-```
-Striver-DSA/
-│
-├── Arrays/
-│   ├── Largest_ele.cpp
-│   └── ...
-```
+- ✅ Arrays
+- ⏳ Binary Search
+- ⏳ Strings
+- ⏳ Linked List
+- ⏳ Recursion
+- ⏳ Trees
+- ⏳ Graphs
+- ⏳ Dynamic Programming
 
-## ✅ Progress
-
-### Arrays
-- [x] Largest Element in Array
-
-More solutions will be added as I continue solving the Striver DSA Sheet.
-
-## 🎯 Goal
-- Complete the Striver DSA Sheet.
-- Improve problem-solving skills.
-- Maintain clean and well-documented solutions.
+## Folder Structure
