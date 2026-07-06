@@ -5,10 +5,9 @@ bool checkArr(vector<int> &arr)
     int i,j;
     for(i=0;i<arr.size();i++)
     {
-        for (int j = i + 1; j < arr.size(); j++) {
-            // If any element is smaller than the previous one, return false
-            if (arr[j] < arr[i]) 
-                return false;
+        if(arr[i]>arr[i+1])
+        {
+            return false;
         }
     }
     return true;
